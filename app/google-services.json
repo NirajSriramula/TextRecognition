@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246628461494",
+    "firebase_url": "https://textrecognition-a5425.firebaseio.com",
+    "project_id": "textrecognition-a5425",
+    "storage_bucket": "textrecognition-a5425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246628461494:android:2baff526df5fc7f3822f17",
+        "android_client_info": {
+          "package_name": "com.uchiha.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246628461494-5gjvnvh29rb2engs2fk0gd4g912m4280.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10XR7eUirtcf066j-Adl7bPsuyV38C4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246628461494-5gjvnvh29rb2engs2fk0gd4g912m4280.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
